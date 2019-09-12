@@ -1,6 +1,6 @@
-# CaninosSDK
+# CaninosSDK <DEPRECATED - FOR EARLY PROTOTYPES ONLY>
 
-This repository contains the source code for Caninos Labrador Operating System.
+This repository contains the source code for Caninos Labrador Coreboard v1.x Operating System.
 The kernel source code is located at the folder "kernel".
 The u-boot source code is located at the folder "u-boot".
 The armhf crosscompiler is located at the folder "toolchain".
