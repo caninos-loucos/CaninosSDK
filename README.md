@@ -9,6 +9,7 @@ The rootfs debian image is located at the directory "debian/system".
 **Note** Before compiling, please download the Debian Buster rootfs image from "https://drive.google.com/open?id=1_O0hslsOzg2VRDqWIwkAxWR7VLPaAQ1m" and paste it in the folder "debian/system".
 
 Environment setup (Debian): sudo apt-get install zlib1g-dev libncurses5-dev pkg-config bison flex libssl-dev git make build-essential gparted
+**Note** If you are running from a 64bit environment, please install: sudo apt-get install lib32z1-dev
 
 # Firmware Creation
 
